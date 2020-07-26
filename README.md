@@ -14,7 +14,7 @@
 
 ## 你可以在此项目中学到的东西
 
-1、模拟器使用httpcanary抓包（其实还可以使用fiddle进行抓包）
+1、模拟器使用httpcanary抓包（ssss其实还可以使用fiddle进行抓包）
 
 2、httpcanary的初步使用
 
